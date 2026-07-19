@@ -1,0 +1,5 @@
+192.168.1.100 - - [19/Jul/2026:10:15:23 +0000] "GET /index.html HTTP/1.1" 200 4521 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+10.0.0.45 - - [19/Jul/2026:10:16:42 +0000] "POST /api/users HTTP/1.1" 201 156 "-" "curl/7.68.0"
+203.0.113.78 - - [19/Jul/2026:10:18:05 +0000] "GET /assets/style.css HTTP/1.1" 200 2847 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+192.168.1.105 - - [19/Jul/2026:10:19:33 +0000] "GET /index.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X)"
+172.16.0.50 - - [19/Jul/2026:10:21:12 +0000] "GET /products HTTP/1.1" 200 8934 "-" "Mozilla/5.0 (X11; Linux x86_64)"
